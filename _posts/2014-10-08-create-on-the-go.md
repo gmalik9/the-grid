@@ -3,7 +3,7 @@
   description: "Mobile Tools You&#39;ll Actually Use\nCreate On The Go\nWhat&#39;s possible when an AI does all the hard work for you? You can get things done, even on the go. Dr"
   author: []
   datePublished: "2014-10-08T16:26:25.525Z"
-  dateModified: "2014-10-08T16:26:25.525Z"
+  dateModified: "2014-10-08T16:52:19.444Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
