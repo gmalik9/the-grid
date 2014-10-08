@@ -3,7 +3,7 @@
   description: "The Grid Loves Designers\nNow You Can Design At Scale\nWe need designers to create beautiful websites. But because sites change so often, it&#39;s easy to get cau"
   author: []
   datePublished: "2014-10-08T16:26:08.380Z"
-  dateModified: "2014-10-08T16:26:08.380Z"
+  dateModified: "2014-10-08T16:52:05.191Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
