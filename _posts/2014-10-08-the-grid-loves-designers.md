@@ -2,8 +2,8 @@
   title: "The Grid Loves Designers"
   description: "The Grid Loves Designers\nNow You Can Design At Scale\nWe need designers to create beautiful websites. But because sites change so often, it&#39;s easy to get cau"
   author: []
-  datePublished: "2014-10-08T15:29:01.422Z"
-  dateModified: "2014-10-08T15:29:01.422Z"
+  datePublished: "2014-10-08T15:42:25.273Z"
+  dateModified: "2014-10-08T15:42:25.273Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
