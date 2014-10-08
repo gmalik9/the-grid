@@ -3,7 +3,7 @@
   description: "Don&#39;t Pay To Access Your Data\nYou Own Everything, Forever\nWe mean it. We don&#39;t take your data and lock it up in some mysterious database, we put it on G"
   author: []
   datePublished: "2014-10-08T16:23:12.332Z"
-  dateModified: "2014-10-08T16:23:12.332Z"
+  dateModified: "2014-10-08T16:50:57.805Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
