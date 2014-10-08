@@ -3,7 +3,7 @@
   description: "The Right Shot Every Time\nIntelligent Face Detection &amp; Smart Cropping\nWhy waste time cropping by hand? The Grid automatically detects faces in your photos a"
   author: []
   datePublished: "2014-10-08T16:26:37.568Z"
-  dateModified: "2014-10-08T16:26:37.568Z"
+  dateModified: "2014-10-08T16:52:58.504Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
