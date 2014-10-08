@@ -2,8 +2,8 @@
   title: "Hello World"
   description: "Hello World\nThis is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - vid"
   author: []
-  datePublished: "2014-10-08T11:29:58.439Z"
-  dateModified: "2014-10-08T11:29:58.439Z"
+  datePublished: "2014-10-08T15:43:31.940Z"
+  dateModified: "2014-10-08T15:43:31.940Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
