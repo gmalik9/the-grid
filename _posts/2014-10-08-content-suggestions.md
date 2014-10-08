@@ -3,7 +3,7 @@
   description: "We&#39;re Listening For You\nTime-Sensitive Content Suggestions\nConstantly monitoring the web for mentions of your company or product takes nearly as much time a"
   author: []
   datePublished: "2014-10-08T16:26:13.097Z"
-  dateModified: "2014-10-08T16:26:13.097Z"
+  dateModified: "2014-10-08T16:51:41.280Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
