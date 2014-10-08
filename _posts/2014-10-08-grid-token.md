@@ -2,8 +2,8 @@
   title: "Grid Token"
   description: "Connect With The World Around You\nLimited Gold Edition Token. Founding Members Only!\nBusiness cards are dead! Networking doesn&#39;t happen at events or confere"
   author: []
-  datePublished: "2014-10-08T16:09:37.369Z"
-  dateModified: "2014-10-08T16:09:37.369Z"
+  datePublished: "2014-10-08T16:23:21.880Z"
+  dateModified: "2014-10-08T16:23:21.880Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
