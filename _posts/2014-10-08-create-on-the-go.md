@@ -2,8 +2,8 @@
   title: "Create on the go"
   description: "Mobile Tools You&#39;ll Actually Use\nCreate On The Go\nWhat&#39;s possible when an AI does all the hard work for you? You can get things done, even on the go. Dr"
   author: []
-  datePublished: "2014-10-08T15:43:15.000Z"
-  dateModified: "2014-10-08T15:43:15.000Z"
+  datePublished: "2014-10-08T15:59:25.977Z"
+  dateModified: "2014-10-08T15:59:25.977Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
