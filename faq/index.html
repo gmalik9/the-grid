@@ -167,6 +167,7 @@ a {
 
   .post-columns .content {
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
   }
 
   .post-columns .position-indicator {
@@ -329,11 +330,14 @@ a {
 <h3>Are you hiring?</h3>
 <p>Were always on the hunt for talented and passionate individuals. Please forward inquiries to <a href="mailto:jobs@thegrid.io">jobs@thegrid.io</a>, or find us on one of our Github Repos.</p>
 <h3>What type of coffee should I bring to my interview?</h3>
-<p>Large with a dash of soy milk and sprinkle of cinnamon. Or simply black. </p></article><style type="text/gss">"area"[width] == 1368 !strong;
-"area"[center-x] == ::window[center-x];
-
-@v |(section)... in(::window) !require {
-  @h |(&)| in(::window);
+<p>Large with a dash of soy milk and sprinkle of cinnamon. Or simply black. </p></article><style type="text/gss">section {
+  width: 100%;
+  width: == ::window[width] !require;
+  top: == 0 !require;
+  z-index: 1;
+  overflow-x: hidden;
+  margin: auto;
+  width: 100%;
 
   height: <= ::window[height] !weak;
   height: >= &[width] / 2.4 !weak;
