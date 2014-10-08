@@ -5,7 +5,7 @@
   description: "Goodbye Templates\nHello Layout Filters\nUnlike brittle templates, AI powered Layout Filters adapt to fit the unique characteristics of your content. Change your "
   author: []
   datePublished: "2014-10-08T16:26:46.102Z"
-  dateModified: "2014-10-08T16:26:46.102Z"
+  dateModified: "2014-10-08T16:53:13.252Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
