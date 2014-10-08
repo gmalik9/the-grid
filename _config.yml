@@ -4,7 +4,7 @@ style: A1
 cta:
   domain: //s3-us-west-2.amazonaws.com
   bucket: /cdn.thegrid.io
-  version: 0.1.2
+  version: master
 analytics:
   google: UA-50607580-1
   facebook: "295556487279234"
