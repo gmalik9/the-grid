@@ -2,8 +2,8 @@
   title: "Data Ownership"
   description: "Don&#39;t Pay To Access Your Data\nYou Own Everything, Forever\nWe mean it. We don&#39;t take your data and lock it up in some mysterious database, we put it on G"
   author: []
-  datePublished: "2014-10-08T15:57:10.606Z"
-  dateModified: "2014-10-08T15:57:10.606Z"
+  datePublished: "2014-10-08T16:09:42.019Z"
+  dateModified: "2014-10-08T16:09:42.019Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
