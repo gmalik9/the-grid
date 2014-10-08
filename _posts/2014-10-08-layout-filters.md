@@ -4,8 +4,8 @@
     - "screenshot"
   description: "Goodbye Templates\nHello Layout Filters\nUnlike brittle templates, AI powered Layout Filters adapt to fit the unique characteristics of your content. Change your "
   author: []
-  datePublished: "2014-10-08T15:59:43.437Z"
-  dateModified: "2014-10-08T15:59:43.437Z"
+  datePublished: "2014-10-08T16:10:53.832Z"
+  dateModified: "2014-10-08T16:10:53.832Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
