@@ -21,7 +21,7 @@ a, p, h1, h2, h3, h4 {
 
 body.modal-open {
   overflow: hidden;
-  height: 100%;
+  position: fixed;
 }
 html, body {
   overflow-x: hidden;
@@ -172,8 +172,7 @@ section.head-cta .loading-cta-text {
   display: none;
   position: absolute;
   left: calc(50% - 18px);
-  font-size: 48px;
-  line-height: 65px;
+  margin-top: 5px;
 }
 body.payment-open section.head-cta .loading-cta-text {
   display: inline-block;
@@ -470,11 +469,10 @@ section.reposts {
   display: none;
   position: absolute;
   left: calc(50% - 18px);
-  font-size: 48px;
-  margin-top: -19px;
+  margin-top: -2px;
 }
 body.payment-open .banner-cta .loading-cta-text {
-  display: block;
+  display: inline-block;
 }
 body.payment-open .banner-cta .regular-cta-text {
   opacity: 0;
@@ -562,9 +560,6 @@ body.payment-open .banner-cta .regular-cta-text {
 .banner-cta.else aside svg.logo {
   visibility: visible;
 }
-
-=======
->>>>>>> 70fa9d69e7d258c603fe1ba1e255cfd50135efd2
 .post-columns {
   background-color: hsl(36, 33%, 94%);
 }
@@ -621,7 +616,6 @@ body.payment-open .banner-cta .regular-cta-text {
   }
 
   .post-columns .content {
-    overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
   }
@@ -639,7 +633,8 @@ body.payment-open .banner-cta .regular-cta-text {
   }
 
   .post-columns .content {
-    overflow-x: scroll;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .post-columns .position-indicator {
@@ -1224,8 +1219,6 @@ section.reposts {
     @v |(&"zone1")| in(&) !require;
 
     &.left {
-      @h |-[md2]-(&"zone2")-[md2]-<&"zone1"[center-x]> in(&"zone1");
-
       .repost {
         /* play */
         (& .play-btn)[center-x] == (& .text)[right];
@@ -1236,8 +1229,6 @@ section.reposts {
       }
     }
     &.right {
-      @h <&"zone1"[center-x]>-[md2]-(&"zone2")-[md2]-| in(&"zone1");
-
       .repost {
         /* play */
         (& .play-btn)[center-x] == (& .text)[left];
@@ -1245,6 +1236,22 @@ section.reposts {
 
         (& .from)[top] == (& .text)[top];
         (& .from)[right] + [md-2] == (& .text)[right];
+      }
+    }
+    @if ::window[width] > 1100 {
+      &.left {
+        @h |-[md2]-(&"zone2")-[md2]-<&"zone1"[center-x]> in(&"zone1");
+      }
+      &.right {
+        @h <&"zone1"[center-x]>-[md2]-(&"zone2")-[md2]-| in(&"zone1");
+      }
+    } @else {
+      &.left {
+        @h |-[md2]-(&"zone2")~-~| in(&"zone1");
+      }
+      &.right {
+        &[-column-gap] >= [md];
+        @h |-&[-column-gap]-(&"zone2")-[md]-| in(&"zone1");
       }
     }
     @v |-[md]-(&"zone2")-[md]-| in(&"zone1");
@@ -2725,8 +2732,7 @@ for (var i = 0, el; el = els[i++];) {
 }
 
 if (exporting ||
-    (location.hostname.indexOf('thegrid.io') == -1
-      && (location.search.indexOf('compiled') == -1
+    ((location.search.indexOf('compiled') == -1
       && !window.Storage))) {
   var script = document.createElement('script');
   script.id = 'loader';
@@ -2936,11 +2942,17 @@ initPreorder(product, updater);
       container.addEventListener('click', function(event){
         document.body.removeChild(container);
         document.body.classList.remove('modal-open');
-        document.querySelector('video').play();
+        var htmlVideo = document.querySelector('video');
+        if (htmlVideo) {
+          htmlVideo.play();
+        }
         window.removeEventListener('resize', setSize);
       });
       // Body
-      document.querySelector('video').pause();
+      var htmlVideo = document.querySelector('video');
+      if (htmlVideo) {
+        htmlVideo.pause();
+      }
       document.body.classList.add('modal-open');
       document.body.appendChild(container);
       // Don't follow link
