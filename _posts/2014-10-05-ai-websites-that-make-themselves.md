@@ -3,7 +3,7 @@
   datePublished: "2014-10-05T04:37:05.900Z"
   description: "What would you do with 10hrs extra a week?\nNo coding, no design, no maintenance. AI websites that make themselves\n\nPre-Order Now"
   author: []
-  dateModified: "2014-10-08T15:41:49.427Z"
+  dateModified: "2014-10-08T15:56:23.017Z"
   published: true
   _type: "Product"
   _context: "http://schema.org"
