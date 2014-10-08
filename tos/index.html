@@ -167,6 +167,7 @@ a {
 
   .post-columns .content {
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
   }
 
   .post-columns .position-indicator {
@@ -279,11 +280,14 @@ a {
 <p>The failure of The Grid to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and The Grid and govern your use of the Service. The Terms of Service superseding any prior agreements between you and The Grid, including, but not limited to, any prior versions of the Terms of Service. </p>
 <p>You expressly understand and agree that The Grid shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses resulting from: (i) the use or the inability to use the service; (ii) unauthorized access to or alteration of your transmissions or data; (iii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into, through, or from the service; (iv) statements or conduct of any third-party on the service; or (v) any other matter relating to the service. The Grid is not liable even if it has been advised of the possibility of such damages.</p>
 <p>You agree that these Terms of Service and your use of the Service are governed under the Laws of the State of California and any dispute shall be adjudicated in the State of California.</p>
-<p>The Grid may interact with law enforcement regarding your use of the The Grid Services. You acknowledge and agree that The Grid may make your information available to law enforcement. The Grid requires valid legal process, such as a subpoena, court order, or search warrant, in order to produce records of non-public user information to U.S.-based law enforcement. ýThe Grid requires a search warrant issued under the procedures of the Federal Rules of Criminal Procedure or equivalent state warrant procedures to compel disclosure of the content of user communications.</p></article><style type="text/gss">"area"[width] == 1368 !strong;
-"area"[center-x] == ::window[center-x];
-
-@v |(section)... in(::window) !require {
-  @h |(&)| in(::window);
+<p>The Grid may interact with law enforcement regarding your use of the The Grid Services. You acknowledge and agree that The Grid may make your information available to law enforcement. The Grid requires valid legal process, such as a subpoena, court order, or search warrant, in order to produce records of non-public user information to U.S.-based law enforcement. ýThe Grid requires a search warrant issued under the procedures of the Federal Rules of Criminal Procedure or equivalent state warrant procedures to compel disclosure of the content of user communications.</p></article><style type="text/gss">section {
+  width: 100%;
+  width: == ::window[width] !require;
+  top: == 0 !require;
+  z-index: 1;
+  overflow-x: hidden;
+  margin: auto;
+  width: 100%;
 
   height: <= ::window[height] !weak;
   height: >= &[width] / 2.4 !weak;
