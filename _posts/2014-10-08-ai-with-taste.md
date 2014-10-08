@@ -5,7 +5,7 @@
   description: "AI With Taste\nAlgorithms That Understand You\nIt feels like magic, but it isn&#39;t. The Grid analyzes your content and then automates thousands of mundane desig"
   author: []
   datePublished: "2014-10-08T16:26:25.350Z"
-  dateModified: "2014-10-08T16:26:25.350Z"
+  dateModified: "2014-10-08T16:52:19.258Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
