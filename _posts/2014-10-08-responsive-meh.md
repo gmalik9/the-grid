@@ -2,8 +2,8 @@
   title: "Responsive meh"
   description: "All Your Media, On Any Device\nContent Dictates Form? That&#39;s Evolutionary.\nNever again change your content to fit your template or the latest hot mobile devi"
   author: []
-  datePublished: "2014-10-08T15:56:49.986Z"
-  dateModified: "2014-10-08T15:56:49.986Z"
+  datePublished: "2014-10-08T16:09:32.098Z"
+  dateModified: "2014-10-08T16:09:32.098Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
