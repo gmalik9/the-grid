@@ -3,7 +3,8 @@
   datePublished: "2014-10-05T04:37:05.900Z"
   description: "AI Websites That Design Themselves\nJoin the Evolution\n\n\nBecome a Founding Member"
   author: []
-  dateModified: "2014-10-08T16:09:11.488Z"
+  starred: true
+  dateModified: "2014-10-08T16:22:25.323Z"
   published: true
   _type: "Product"
   _context: "http://schema.org"
