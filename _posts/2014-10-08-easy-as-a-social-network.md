@@ -2,8 +2,8 @@
   title: "Easy as a Social Network"
   description: "As Easy As A Social Network\nAs Beautiful &amp; Unique As You\nNever again change your content to fit a cookie-cutter social network or today&#39;s hot website te"
   author: []
-  datePublished: "2014-10-08T15:43:20.413Z"
-  dateModified: "2014-10-08T15:43:20.413Z"
+  datePublished: "2014-10-08T15:59:35.043Z"
+  dateModified: "2014-10-08T15:59:35.043Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
