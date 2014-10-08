@@ -2,8 +2,8 @@
   title: "Face Detection"
   description: "The Right Shot Every Time\nIntelligent Face Detection &amp; Smart Cropping\nWhy waste time cropping by hand? The Grid automatically detects faces in your photos a"
   author: []
-  datePublished: "2014-10-08T15:43:12.388Z"
-  dateModified: "2014-10-08T15:43:12.388Z"
+  datePublished: "2014-10-08T15:59:35.207Z"
+  dateModified: "2014-10-08T15:59:35.207Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
