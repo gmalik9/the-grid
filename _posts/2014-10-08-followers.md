@@ -2,8 +2,8 @@
   title: "Followers"
   description: "Website, Meet Your Followers\nNewsletter signups? What a hassle. The Grid allows people to follow your whole website, allowing you to dynamically construct updat"
   author: []
-  datePublished: "2014-10-08T15:29:04.725Z"
-  dateModified: "2014-10-08T15:29:04.725Z"
+  datePublished: "2014-10-08T15:42:18.814Z"
+  dateModified: "2014-10-08T15:42:18.814Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
