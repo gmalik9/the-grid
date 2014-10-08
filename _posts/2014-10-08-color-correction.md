@@ -2,8 +2,8 @@
   title: "Color correction"
   description: "A Site As Colorful As You\nIntelligent Color Detection &amp; Correction\nOur algorithms expertly analyze your media and apply color palettes that keep your messag"
   author: []
-  datePublished: "2014-10-08T16:10:51.618Z"
-  dateModified: "2014-10-08T16:10:51.618Z"
+  datePublished: "2014-10-08T16:26:43.317Z"
+  dateModified: "2014-10-08T16:26:43.317Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
