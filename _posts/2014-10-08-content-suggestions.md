@@ -2,8 +2,8 @@
   title: "Content Suggestions"
   description: "We&#39;re Listening For You\nTime-Sensitive Content Suggestions\nConstantly monitoring the web for mentions of your company or product takes nearly as much time a"
   author: []
-  datePublished: "2014-10-08T15:28:58.719Z"
-  dateModified: "2014-10-08T15:28:58.719Z"
+  datePublished: "2014-10-08T15:42:30.260Z"
+  dateModified: "2014-10-08T15:42:30.260Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
