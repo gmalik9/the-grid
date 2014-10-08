@@ -1,15 +1,15 @@
 ---
   title: "AI websites that make themselves"
   datePublished: "2014-10-05T04:37:05.900Z"
-  description: "What would you do with 10hrs extra a week\nNo coding, no design, no maintenance. AI websites that make themselves\n\nPre-Order Now"
+  description: "What would you do with 10hrs extra a week?\nNo coding, no design, no maintenance. AI websites that make themselves\n\nPre-Order Now"
   author: []
-  dateModified: "2014-10-08T15:29:09.593Z"
+  dateModified: "2014-10-08T15:41:49.427Z"
   published: true
   _type: "Product"
   _context: "http://schema.org"
 
 ---
-# What would you do with 10hrs extra a week
+# What would you do with 10hrs extra a week?
 
 ## No coding, no design, no maintenance. AI websites that make themselves
 ![](https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/mountain.jpg)
