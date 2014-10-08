@@ -167,6 +167,7 @@ a {
 
   .post-columns .content {
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
   }
 
   .post-columns .position-indicator {
@@ -262,11 +263,14 @@ If The Grid intends on using any Personal Data in any manner that is not consist
 <p>The Services and our business may change from time to time. As a result, at times it may be necessary for The Grid to make changes to this Privacy Policy. The Grid reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. </p>
 <h2>Access to Information; Contacting The Grid:</h2>
 <p>To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about The Grids Privacy Policy or the information practices of the Services.</p>
-<p>You may contact us as follows: support@thegrid.io. </p></article><style type="text/gss">"area"[width] == 1368 !strong;
-"area"[center-x] == ::window[center-x];
-
-@v |(section)... in(::window) !require {
-  @h |(&)| in(::window);
+<p>You may contact us as follows: support@thegrid.io. </p></article><style type="text/gss">section {
+  width: 100%;
+  width: == ::window[width] !require;
+  top: == 0 !require;
+  z-index: 1;
+  overflow-x: hidden;
+  margin: auto;
+  width: 100%;
 
   height: <= ::window[height] !weak;
   height: >= &[width] / 2.4 !weak;
