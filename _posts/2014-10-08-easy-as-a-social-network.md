@@ -3,7 +3,7 @@
   description: "As Easy As A Social Network\nAs Beautiful &amp; Unique As You\nNever again change your content to fit a cookie-cutter social network or today&#39;s hot website te"
   author: []
   datePublished: "2014-10-08T16:26:29.721Z"
-  dateModified: "2014-10-08T16:26:29.721Z"
+  dateModified: "2014-10-08T16:52:19.428Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
