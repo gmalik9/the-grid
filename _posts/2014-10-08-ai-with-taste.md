@@ -4,8 +4,8 @@
     - "negative-space-left"
   description: "AI With Taste\nAlgorithms That Understand You\nIt feels like magic, but it isn&#39;t. The Grid analyzes your content and then automates thousands of mundane desig"
   author: []
-  datePublished: "2014-10-08T16:10:06.219Z"
-  dateModified: "2014-10-08T16:10:06.219Z"
+  datePublished: "2014-10-08T16:26:25.350Z"
+  dateModified: "2014-10-08T16:26:25.350Z"
   published: true
   _context: "http://schema.org"
   _type: "Article"
